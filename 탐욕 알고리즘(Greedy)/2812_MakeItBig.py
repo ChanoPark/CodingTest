@@ -1,10 +1,12 @@
 N, K = map(int, input().split())
-li = list(input())
+num = list(input())
 k = K
 stack = []
+
 for i in range(N):
-    while k > 0 and stack and stack[-1] < li[i]:
+    while(k > 0 and stack and stack[-1] < num[i]):
         stack.pop()
-        k -= 1
-    stack.append(li[i])
+        k-=1
+    stack.append(num[i])
+    
 print(''.join(stack[:N-K]))
