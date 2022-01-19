@@ -1,42 +1,19 @@
-def check(room, M, N):
+def check(room, M):
     trash = 1
     i=0
     
-    while(i<M or j<N):
-        j=0
-        col_sum=0
+    while(i<M):
         print("함수내 i:",i, "함수 내 M", M)
         if(i<M and max(room[i])<=0):
             del room[i]
             M-=1
             continue
-        
-        if(i>=M):
-            k=M-1
-        else:
-            k=i
-        
-        while(j<N):
-            print(k, j)
-            if(room[k][j]==1):
-                col_sum=1
-                break
-            col_sum+=room[k][j]
-            print("j:",j)
-            j+=1
-        if(col_sum==0):
-            while(j<0):
-                del room[k][j]
-                j-=1
-            N-=1
         i+=1
-        j+=1
-    print("함수 내 M:::", M, "함수내 room:", room)
     if(len(room)==0):
         trash=0
         
     print("trash:",trash, "M:", M)
-    return trash, M, N
+    return trash, M
 
 M, N = map(int, input().split())
 
@@ -46,7 +23,7 @@ for i in range(M):
     room[i] = list(map(int, input().split()))
 print("room:",room)
 robot = 0
-trash, M, N = check(room, M, N)
+trash, M = check(room, M)
 while(trash != 0):
     row = 0
     col = 0
@@ -83,7 +60,7 @@ while(trash != 0):
                 room[row][col] = 0
 
     print("과정이 끝나고 row:", row, "col:", col)
-    trash, M, N = check(room, M, N)
+    trash, M = check(room, M)
     print("함수끝나고 M:", M)
     print(robot,"번째",room)
 print(robot)
