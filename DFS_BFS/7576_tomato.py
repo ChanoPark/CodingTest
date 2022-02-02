@@ -12,7 +12,6 @@ def BFS(M, N):
 
 M, N = map(int, input().split())
 box = [[]*M for _ in range(N)]
-visited = [[0]*M for _ in range(N)]
 queue = deque()
 day=0
 
