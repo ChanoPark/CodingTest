@@ -22,9 +22,9 @@ day=0
 
 for j in range(H):
     for i in range(N):
-        box[j][i] = list(map(int, input().split()))
+        box[j][i] = list(map(int, input().split())) #토마토 정보를 리스트에 추가
 
-for i in range(H):
+for i in range(H): #익은 토마토의 위치정보를 큐에 담는다.
     for j in range(N):
         for k in range(M):
             if (box[i][j][k]==1):
@@ -36,7 +36,7 @@ DZ = [0, -1, 1] # 지금, 아래, 위
 
 BFS(M, N, H)
 
-for k in range(H):
+for k in range(H): #최대값 찾기(정답)
     for i in box[k]:
         for j in i:
             if(j==0):
@@ -44,4 +44,4 @@ for k in range(H):
                 exit(0)
         day=max(day,max(i))
 
-print(day-1)
+print(day-1) #1부터 시작했으므로 -1
