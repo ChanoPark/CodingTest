@@ -14,7 +14,7 @@ if(G>M):
 man.sort()
 girl.sort()
 
-DP = [[0 for col in range(M)] for row in range(G)]
+DP = [[0 for col in range(M+1)] for row in range(G+1)]
 
 #DP 생성
 
