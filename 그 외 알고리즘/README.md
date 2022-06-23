@@ -1,3 +1,0 @@
-#### 다양한 알고리즘을 활용해서 해결한 문제입니다.
-   * 1107번 : 리모컨 (완전 탐색) → [문제풀이](https://chanos.tistory.com/entry/%EB%B0%B1%EC%A4%80-1107%EB%B2%88-%EB%A6%AC%EB%AA%A8%EC%BB%A8-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)  
-   * 5271번 : 호텔 방 번호 (완전 탐색, 문자열 개수)
