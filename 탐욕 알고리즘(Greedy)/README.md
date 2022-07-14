@@ -1,3 +1,9 @@
 #### 탐욕 알고리즘(Greedy)를 활용한 문제풀이
-   1461 : 도서관 [문제풀이](https://chanos.tistory.com/entry/%EB%B0%B1%EC%A4%80-1461%EB%B2%88-%EB%8F%84%EC%84%9C%EA%B4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)  
-   2812 : 큰 수 만들기 
+   ### 백준
+   * 1461 : 도서관 [문제풀이](https://chanos.tistory.com/entry/%EB%B0%B1%EC%A4%80-1461%EB%B2%88-%EB%8F%84%EC%84%9C%EA%B4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)  
+   * 2812 : 큰 수 만들기  
+
+   ### 섹션 4. 그리디 알고리즘
+   * meetingRoom(회의실 배정) : 회의 시간표를 입력 받아, 주어진 시간 내에 가장 많은 회의를 진행할 수 있도록 배정
+   * wrestling(씨름선수) : 선수 리스트를 입력 받아, 키와 몸무게가 다 높은 사람이 있는 경우 명단 제외
+   * increaseSeq(증가 수열) : 양 끝에서 숫자를 하나씩 가져와 가장 큰 증가 수열 만들기
