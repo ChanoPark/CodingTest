@@ -17,5 +17,8 @@
 |Prob2_2|보이는 학생|-|구현|
 |Prob3_1|두 배열 합치기|-|Two Pointer|
 |Prob3_2|공통 원소 구하기|`Arrays.sort()`<br> `arrayList.sort(Comparator.naturalOrder())`|Two Pointer|
+|Prob3_3|최대 매출|-|Sliding Window|
+|Prob3_4|연속 부분수열|-|Two Pointer|
 |Prob4_1|학급 회장|`hashMap.getorDefault(key, value)`|구현|
 |Prob4_2|아나그램|`hashMap.containsKey`|구현|
+|Prob4_3|매출액의 종류|-|구현|
