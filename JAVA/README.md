@@ -15,6 +15,8 @@
 |Prob1_12|암호|`Integer.parseInt(String형 진수, 1번째파라미터의 진수)`, `Character.toChars()`|구현|
 |Prob2_1|큰 수 출력하기|`StringTokenizer`|구현|
 |Prob2_2|보이는 학생|-|구현|
+|Prob2_3|가위바위보|-|구현|
+|Prob2_4|피보나치 수열|-|구현|
 |Prob3_1|두 배열 합치기|-|Two Pointer|
 |Prob3_2|공통 원소 구하기|`Arrays.sort()`<br> `arrayList.sort(Comparator.naturalOrder())`|Two Pointer|
 |Prob3_3|최대 매출|-|Sliding Window|
