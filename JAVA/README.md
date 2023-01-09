@@ -4,7 +4,7 @@
 |Prob1_1|문자 찾기|`char.toCharArray()`, `Character.toupperCase()`|구현|
 |Prob1_2|대소문자 변환|`StringBuilder`, `ASCII`|구현|
 |Prob1_3|문장 속 단어|`Integer.MIN_VALUE` |구현|
-|Prob1_4|단어 뒤집기|`stringBuilder.reverse()`, `구현.valueOf()`|구현|
+|Prob1_4|단어 뒤집기|`stringBuilder.reverse()`, `string.valueOf()`|구현|
 |Prob1_5|특정 문자 뒤집기|`Character.isAlphabetic()`|구현|
 |Prob1_6|중복 문자 제거|`Set`|구현|
 |Prob1_7|회문 문자열|`string.equalsIgnoreCase()`|구현|
@@ -17,10 +17,13 @@
 |Prob2_2|보이는 학생|-|구현|
 |Prob2_3|가위바위보|-|구현|
 |Prob2_4|피보나치 수열|-|구현|
+|Prob2_5|소수(에토테네스 체)|-|구현|
 |Prob3_1|두 배열 합치기|-|Two Pointer|
 |Prob3_2|공통 원소 구하기|`Arrays.sort()`<br> `arrayList.sort(Comparator.naturalOrder())`|Two Pointer|
 |Prob3_3|최대 매출|-|Sliding Window|
 |Prob3_4|연속 부분수열|-|Two Pointer|
+|Prob3_5|연속된 자연수의 합|-|Two Pointer, Math|
+|Prob3_6|최대 길이 연속부분수열|-|Two Pointer|
 |Prob4_1|학급 회장|`hashMap.getorDefault(key, value)`|구현|
 |Prob4_2|아나그램|`hashMap.containsKey`|구현|
 |Prob4_3|매출액의 종류|-|구현|
