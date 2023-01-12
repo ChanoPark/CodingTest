@@ -30,3 +30,5 @@
 |Prob4_4|모든 아나그램 찾기|-|구현|
 |Prob4_5|K번째 큰 수|`TreeSet`, `Collections.reverseOrder()`|구현|
 |Prob5_1|올바른 괄호|`Stack`|Stack|
+|Prob5_2|괄호문자제거|-|Stack|
+|Prob5_3|크레인 인형뽑기|`stack.peek()`|Stack|
