@@ -33,3 +33,6 @@
 |Prob5_1|올바른 괄호|`Stack`|Stack|
 |Prob5_2|괄호문자제거|-|Stack|
 |Prob5_3|크레인 인형뽑기|`stack.peek()`|Stack|
+|Prob5_4|후위식 연산(postfix)|-|Stack|
+|Prob5_5|쇠막대기|-|Stack|
+|Prob5_6|공주구하기|`Queue`, `queue.offer()`, `queue.poll()`|Queue|
