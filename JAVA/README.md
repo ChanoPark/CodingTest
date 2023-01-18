@@ -19,6 +19,8 @@
 |Prob2_4|피보나치 수열|-|구현|
 |Prob2_5|소수(에토테네스 체)|-|구현|
 |Prob2_6|뒤집은 소수|-|구현|
+|Prob2_7|점수 계산|-|구현|
+|Prob2_8|등수 구하기|-|구현|
 |Prob3_1|두 배열 합치기|-|Two Pointer|
 |Prob3_2|공통 원소 구하기|`Arrays.sort()`<br> `arrayList.sort(Comparator.naturalOrder())`|Two Pointer|
 |Prob3_3|최대 매출|-|Sliding Window|
