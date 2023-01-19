@@ -20,7 +20,7 @@
 |Prob2_5|소수(에토테네스 체)|-|구현|
 |Prob2_6|뒤집은 소수|-|구현|
 |Prob2_7|점수 계산|-|구현|
-|Prob2_8|등수 구하기|-|구현|
+|Prob2_8|등수 구하기|`System.arraycopy(arr, 0, reverse, 0, N)`|구현|
 |Prob3_1|두 배열 합치기|-|Two Pointer|
 |Prob3_2|공통 원소 구하기|`Arrays.sort()`<br> `arrayList.sort(Comparator.naturalOrder())`|Two Pointer|
 |Prob3_3|최대 매출|-|Sliding Window|
@@ -38,3 +38,5 @@
 |Prob5_4|후위식 연산(postfix)|-|Stack|
 |Prob5_5|쇠막대기|-|Stack|
 |Prob5_6|공주구하기|`Queue`, `queue.offer()`, `queue.poll()`|Queue|
+|Prob5_7|교육과정설계|-|Queue|
+|Prob5_8|응급실|-|Queue|
