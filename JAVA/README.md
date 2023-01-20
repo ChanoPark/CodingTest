@@ -40,3 +40,6 @@
 |Prob5_6|공주구하기|`Queue`, `queue.offer()`, `queue.poll()`|Queue|
 |Prob5_7|교육과정설계|-|Queue|
 |Prob5_8|응급실|-|Queue|
+|Prob6_1|선택 정렬|-|선택 정렬|
+|Prob6_2|버블 정렬|-|버블 정렬|
+|Prob6_3|삽입 정렬|-|삽입 정렬|
