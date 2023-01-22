@@ -45,3 +45,6 @@
 |Prob6_3|삽입 정렬|-|삽입 정렬|
 |Prob6_4|LRU(캐시, 카카오 변형)|-|구현|
 |Prob6_5|중복확인|-|구현|
+|Prob6_6|장난꾸러기|`deep copy-array.clone()`|구현|
+|Prob6_7|좌표 정렬|`Comparable`|정렬|
+|Prob6_8|이분검색|-|이분 검색|
