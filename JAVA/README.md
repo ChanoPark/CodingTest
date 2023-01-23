@@ -48,3 +48,5 @@
 |Prob6_6|장난꾸러기|`deep copy-array.clone()`|구현|
 |Prob6_7|좌표 정렬|`Comparable`|정렬|
 |Prob6_8|이분검색|-|이분 검색|
+|Prob6_9|뮤직비디오|`Arrays.stream(array).max().getAsInt()`|결정 알고리즘|
+|Prob6_10|마구간 정하기|-|결정 알고리즘|
