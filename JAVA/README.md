@@ -63,3 +63,4 @@
 |DriveDistance|주행거리 비교하기|-|구현|
 |ObstacleProgram|장애물 인식 프로그램|-|DFS|
 |SafeCracker|금고털이|`Colleections.sort(target, 람다)`|Greedy|
+|GradeEvaluation|성적 평가|`PriorityQueue`|구현|
