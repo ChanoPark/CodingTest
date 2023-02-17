@@ -58,6 +58,9 @@
 |Prob7_4|피보나치 재귀|-|DP|
 |Prob7_5|이진트리 순회|-|DFS|
 |Prob7_6|부분집합 구하기|-|DFS|
+|Prob7_7|이진트리 레벨 탐색|`Queue`|BFS|
+|Prob7_8|송아지 찾기|-|BFS|
+|Prob7_9|Tree 말단노드까지 최단 경로|-|DFS|
 
 ## Softeer
 |파일명|문제|키워드|주제|
