@@ -23,6 +23,8 @@
 |Prob2_8|등수 구하기|`System.arraycopy(arr, 0, reverse, 0, N)`|구현|
 |Prob2_9|격자판 최대합|-|구현|
 |Prob2_10|봉우리|-|구현|
+|Prob2_11|임시반장 정하기|-|구현|
+|Prob2_12|멘토링|-|구현|
 |Prob3_1|두 배열 합치기|-|Two Pointer|
 |Prob3_2|공통 원소 구하기|`Arrays.sort()`<br> `arrayList.sort(Comparator.naturalOrder())`|Two Pointer|
 |Prob3_3|최대 매출|-|Sliding Window|
