@@ -69,6 +69,9 @@
 |Prob7_14|그래프 최단거리|-|BFS|
 |Prob8_1|합이 같은 부분집합|-|DFS|
 |Prob8_2|바둑이 승차|-|DFS|
+|Prob8_3|최대점수 구하기|-|Greedy,DFS|
+|Prob8_4|중복순열|-|DFS|
+|Prob8_5|동전교환|-|DFS|
 
 ## Softeer
 |파일명|문제|키워드|주제|
@@ -78,4 +81,4 @@
 |ObstacleProgram|장애물 인식 프로그램|-|DFS|
 |SafeCracker|금고털이|`Colleections.sort(target, 람다)`|Greedy|
 |GradeEvaluation|성적 평가|`PriorityQueue`|구현|
-|ClassroomAssignment|강의실 배정|-|정렬|
+|ClassroomAssignment|강의실 배정|-|그리디|
