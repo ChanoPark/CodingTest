@@ -80,6 +80,9 @@
 |Prob8_11|미로의 최단거리 통로|-|BFS|
 |Prob8_12|토마토|-|BFS|
 |Prob8_13|섬나라 아일랜드|-|DFS|
+|Prob8_14|섬나라 아일랜드|-|BFS|
+|Prob8_15|피자배달거리|-|DFS, 조합|
+|Prob9_1|씨름선수|-|Greedy|
 
 ## 백준
 |파일명|문제|키워드|주제|
@@ -97,4 +100,4 @@
 |ObstacleProgram|장애물 인식 프로그램|-|DFS|
 |SafeCracker|금고털이|`Colleections.sort(target, 람다)`|Greedy|
 |GradeEvaluation|성적 평가|`PriorityQueue`|구현|
-|ClassroomAssignment|강의실 배정|-|그리디|
+|ClassroomAssignment|강의실 배정|-|Greedy|
