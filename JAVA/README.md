@@ -83,6 +83,9 @@
 |Prob8_14|섬나라 아일랜드|-|BFS|
 |Prob8_15|피자배달거리|-|DFS, 조합|
 |Prob9_1|씨름선수|-|Greedy|
+|Prob9_2|회의실 배정|-|Greedy|
+|Prob9_3|결혼식|-|Greedy|
+|Prob9_4|최대수입스케줄|`PriorityQueue<>(Collections.reverseOrder())`|Greedy|
 
 ## 백준
 |파일명|문제|키워드|주제|
