@@ -86,6 +86,10 @@
 |Prob9_2|회의실 배정|-|Greedy|
 |Prob9_3|결혼식|-|Greedy|
 |Prob9_4|최대수입스케줄|`PriorityQueue<>(Collections.reverseOrder())`|Greedy|
+|Prob9_5|최단경로|-|다익스트라|
+|Prob9_6|친구인가|-|Union&Find|
+|Prob9_7|원더랜드|-|크루스칼|
+|Prob9_8|원더랜드|-|프림|
 
 ## 백준
 |파일명|문제|키워드|주제|
