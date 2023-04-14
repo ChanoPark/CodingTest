@@ -115,6 +115,11 @@
 |:------|:---:|:---:|:---:
 |Kakao2023Blind_1|개인정보 수집 유효기간|-|구현|
 |Kakao2023Blind_2|택배배달과 수거하기|`Stack`|구현|
+|FoodFightContest|푸드 파이트 대회|-|구현|
+|PhoneBookList|전화번호 목록|-|구현|
+|PartialSequenceSum|연속된 부분 수열의 합|-|Two Pointer|
+|Immigration|입국 심사|-|이진 탐색|
+|MoreSpicy|더 맵게|-|Heap|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
