@@ -121,10 +121,12 @@
 |Kakao2023Blind_3|이모티콘 할인행사|-|구현|
 |DevMatching2021_2|행렬 테두리 회전하기|-|DFS|
 |FoodFightContest|푸드 파이트 대회|-|구현|
-|PhoneBookList|전화번호 목록|-|구현|
+|PhoneBookList|전화번호 목록|-|해시|
 |PartialSequenceSum|연속된 부분 수열의 합|-|Two Pointer|
 |Immigration|입국 심사|-|이진 탐색|
 |MoreSpicy|더 맵게|-|Heap|
+|Pokemon|포켓몬|-|Hash|
+|Camouflage|위장|-|조합|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
