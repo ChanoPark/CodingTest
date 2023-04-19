@@ -127,6 +127,8 @@
 |MoreSpicy|더 맵게|-|Heap|
 |Pokemon|포켓몬|-|Hash|
 |Camouflage|위장|-|조합|
+|BiggestNumber|가장 큰  수|-|정렬|
+|HateSameNum|같은 숫자는 싫어|-|구현|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
