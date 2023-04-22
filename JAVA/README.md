@@ -132,6 +132,8 @@
 |MockExam|모의고사|-|구현|
 |TargetNumber|타겟 넘버|-|DFS|
 |Network|네트워크|-|UNF|
+|KNumber|K번째 수|-|정렬|
+|SearchPrime|소수 찾기|-|DFS|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
