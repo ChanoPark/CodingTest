@@ -134,6 +134,9 @@
 |Network|네트워크|-|UNF|
 |KNumber|K번째 수|-|정렬|
 |SearchPrime|소수 찾기|-|DFS|
+|IntegerTriangle|정수 삼각형|-|DP|
+|PaintOver|덧칠하기|-|구현|
+|NearestLetter|가장 가까운 글자|-|구현|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
