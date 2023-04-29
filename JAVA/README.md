@@ -125,7 +125,7 @@
 |PartialSequenceSum|연속된 부분 수열의 합|-|Two Pointer|
 |Immigration|입국 심사|-|이진 탐색|
 |MoreSpicy|더 맵게|-|Heap|
-|Pokemon|포켓몬|-|Hash|
+|Pokemon|포켓몬|-|해시|
 |Camouflage|위장|-|조합|
 |BiggestNumber|가장 큰  수|-|정렬|
 |HateSameNum|같은 숫자는 싫어|-|구현|
@@ -137,6 +137,9 @@
 |IntegerTriangle|정수 삼각형|-|DP|
 |PaintOver|덧칠하기|-|구현|
 |NearestLetter|가장 가까운 글자|-|구현|
+|BestAlbum|베스트 앨범|-|해시|
+|FeatureDevelopment|기능 개발|-|구현|
+|MinimalRectangle|최소 직사각형|-|구현|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
