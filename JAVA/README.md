@@ -140,6 +140,9 @@
 |BestAlbum|베스트 앨범|-|해시|
 |FeatureDevelopment|기능 개발|-|구현|
 |MinimalRectangle|최소 직사각형|-|구현|
+|DiskController|디스크 컨트롤러|-|해시|
+|HIndex|H-Index|-|구현|
+|CorrectParentheses|올바른 괄호|-|Stack|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
