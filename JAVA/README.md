@@ -143,6 +143,9 @@
 |DiskController|디스크 컨트롤러|-|해시|
 |HIndex|H-Index|-|구현|
 |CorrectParentheses|올바른 괄호|-|Stack|
+|Process|프로세스|-|Queue|
+|GameMapShortestDistance|게임 맵 최단거리|-|BFS|
+|FurthestNode|가장 먼 노드|-|그래프|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
