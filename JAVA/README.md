@@ -149,6 +149,9 @@
 |Rank|순위|-|플로이드 와샬|
 |NoFinishPlayer|완주하지 못한 선수|-|구현|
 |StockPrice|주식 가격|-|구현|
+|DoublePriorityQueue|이중우선순위큐|-|구현|
+|WordTranslation|단어 변환|-|DFS|
+|TravelPath|여행 경로|-|DFS|
 
 ## 소프티어
 |파일명|문제|키워드|주제|
