@@ -162,3 +162,9 @@
 |SafeCracker|금고털이|`Colleections.sort(target, 람다)`|Greedy|
 |GradeEvaluation|성적 평가|`PriorityQueue`|구현|
 |ClassroomAssignment|강의실 배정|-|Greedy|
+
+## SW Expert Academy
+|파일명|문제|키워드|주제|
+|:------|:---:|:---:|:---:|
+|SWEA1206|View|-|구현|
+|SWEA1244|최대 상금|-|DFS|
